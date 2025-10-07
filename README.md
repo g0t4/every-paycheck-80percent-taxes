@@ -1,6 +1,9 @@
 Just getting started... PROVE me wrong!
 
 80% of every paycheck IS TAXED, your take home is ~20%
+- actually I think it's closer to 90% now that I started my list
+
+TODO skim my everything is taxed to F and back book
 
 ## Heavy hitters
 
@@ -10,6 +13,16 @@ Just getting started... PROVE me wrong!
 - Property taxes - $5,000 to $10,000 (and rapidly climbing) - 1 to 1.2% of home value (increasingly suffocating with housing market)
 - Sales tax - 8 to 12% very common
   - NOTE: poor people (and middleclass) regularly pay tens of millions to millionaires to build stadiums... stadiums 90% will never step foot in...
+- 15%+ of purchase price is taxes paid by the company to make the product they sell you.
+   - this is likely a massive underestimate... corporate taxes are roughly 30% of overall taxes
+- Small business
+
+## Indirect
+
+- Inflation tax
+- Estime premium impact from exploding preimums due to ACA requirements for what a healthcare plan must offer... compare rate increases prior to and after implementation to calculate the tax
+- Taxes that you pay indirectly, but pay nonetheless... 
+- Unemployment => TODO $/year 
 
 ## Middle of the road
 
@@ -29,3 +42,7 @@ Just getting started... PROVE me wrong!
 
 - Sell something used? Pay income tax again
   - TODO estimate how much an average person resells and thus pays in a triple tax now (income tax, sales tax, income tax, oh and buyer pays sales tax again too!)
+
+## Repealed... just imagine
+
+- ACA penalty for not having the money to pay exhorbitant premiums
